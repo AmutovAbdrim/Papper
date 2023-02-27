@@ -1,9 +1,10 @@
 import "./App.css";
+import Navbar from "../src/Components/Navbar/Navbar.jsx";
 
 function App() {
   return (
     <div>
-      <h1>hello</h1>
+      <Navbar />
     </div>
   );
 }
